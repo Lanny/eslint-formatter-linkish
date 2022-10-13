@@ -1,6 +1,6 @@
 {
   "name": "eslint-formatter-linkish",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Format eslint output with clickable terminal links",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Lanny/eslint-formatter-linkish/issues"
   },
-  "homepage": "https://github.com/Lanny/eslint-formatter-linkish#readme"
+  "homepage": "https://github.com/Lanny/eslint-formatter-linkish#readme",
+  "peerDependencies": {
+    "eslint": ">=7.x"
+  }
 }
