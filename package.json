@@ -1,6 +1,6 @@
 {
   "name": "eslint-formatter-linkish",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Format eslint output with clickable terminal links",
   "main": "index.js",
   "scripts": {
